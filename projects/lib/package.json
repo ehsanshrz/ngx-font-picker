@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "ngx-scrollbar": "^18.0.0",
-    "webfontloader": "^1.6.0"
+    "webfontloader": "^1.6.28"
   },
   "peerDependencies": {
     "@angular/common": ">=19.0.0",
